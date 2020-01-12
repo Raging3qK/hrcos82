@@ -1,0 +1,80 @@
+Epoch 1/35
+WARNING:tensorflow:From C:\Users\Drie\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+WARNING:tensorflow:From C:\Users\Drie\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:181: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+WARNING:tensorflow:From C:\Users\Drie\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+WARNING:tensorflow:From C:\Users\Drie\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+WARNING:tensorflow:From C:\Users\Drie\Anaconda3\lib\site-packages\keras\backend\tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+40/40 [==============================] - 1s 23ms/step - loss: 0.6499 - acc: 0.6000
+Epoch 2/35
+40/40 [==============================] - 0s 4ms/step - loss: 0.1936 - acc: 0.9250
+Epoch 3/35
+40/40 [==============================] - 0s 4ms/step - loss: 0.0445 - acc: 1.0000
+Epoch 4/35
+40/40 [==============================] - 0s 5ms/step - loss: 0.0173 - acc: 1.0000
+Epoch 5/35
+40/40 [==============================] - 0s 4ms/step - loss: 0.0024 - acc: 1.0000
+Epoch 6/35
+40/40 [==============================] - 0s 4ms/step - loss: 0.0015 - acc: 1.0000
+Epoch 7/35
+40/40 [==============================] - 0s 4ms/step - loss: 0.0010 - acc: 1.0000
+Epoch 8/35
+40/40 [==============================] - 0s 4ms/step - loss: 6.5112e-04 - acc: 1.0000
+Epoch 9/35
+40/40 [==============================] - 0s 4ms/step - loss: 4.3053e-04 - acc: 1.0000
+Epoch 10/35
+40/40 [==============================] - 0s 4ms/step - loss: 3.5019e-04 - acc: 1.0000
+Epoch 11/35
+40/40 [==============================] - 0s 4ms/step - loss: 2.8038e-04 - acc: 1.0000
+Epoch 12/35
+40/40 [==============================] - 0s 4ms/step - loss: 2.3356e-04 - acc: 1.0000
+Epoch 13/35
+40/40 [==============================] - 0s 4ms/step - loss: 2.0766e-04 - acc: 1.0000
+Epoch 14/35
+40/40 [==============================] - 0s 5ms/step - loss: 1.8778e-04 - acc: 1.0000
+Epoch 15/35
+40/40 [==============================] - 0s 4ms/step - loss: 1.6826e-04 - acc: 1.0000
+Epoch 16/35
+40/40 [==============================] - 0s 4ms/step - loss: 1.5376e-04 - acc: 1.0000
+Epoch 17/35
+40/40 [==============================] - 0s 4ms/step - loss: 1.3928e-04 - acc: 1.0000
+Epoch 18/35
+40/40 [==============================] - 0s 4ms/step - loss: 1.2956e-04 - acc: 1.0000
+Epoch 19/35
+40/40 [==============================] - 0s 4ms/step - loss: 1.1979e-04 - acc: 1.0000
+Epoch 20/35
+40/40 [==============================] - 0s 4ms/step - loss: 1.1274e-04 - acc: 1.0000
+Epoch 21/35
+40/40 [==============================] - 0s 4ms/step - loss: 1.0394e-04 - acc: 1.0000
+Epoch 22/35
+40/40 [==============================] - 0s 4ms/step - loss: 9.6849e-05 - acc: 1.0000
+Epoch 23/35
+40/40 [==============================] - 0s 4ms/step - loss: 8.9844e-05 - acc: 1.0000
+Epoch 24/35
+40/40 [==============================] - 0s 4ms/step - loss: 8.5733e-05 - acc: 1.0000
+Epoch 25/35
+40/40 [==============================] - 0s 4ms/step - loss: 7.9396e-05 - acc: 1.0000
+Epoch 26/35
+40/40 [==============================] - 0s 4ms/step - loss: 7.5011e-05 - acc: 1.0000
+Epoch 27/35
+40/40 [==============================] - 0s 4ms/step - loss: 7.1371e-05 - acc: 1.0000
+Epoch 28/35
+40/40 [==============================] - 0s 4ms/step - loss: 6.7177e-05 - acc: 1.0000
+Epoch 29/35
+40/40 [==============================] - 0s 4ms/step - loss: 6.3733e-05 - acc: 1.0000
+Epoch 30/35
+40/40 [==============================] - 0s 4ms/step - loss: 6.0345e-05 - acc: 1.0000
+Epoch 31/35
+40/40 [==============================] - 0s 4ms/step - loss: 5.7738e-05 - acc: 1.0000
+Epoch 32/35
+40/40 [==============================] - 0s 4ms/step - loss: 5.4218e-05 - acc: 1.0000
+Epoch 33/35
+40/40 [==============================] - 0s 5ms/step - loss: 5.1938e-05 - acc: 1.0000
+Epoch 34/35
+40/40 [==============================] - 0s 4ms/step - loss: 4.9196e-05 - acc: 1.0000
+Epoch 35/35
+40/40 [==============================] - 0s 4ms/step - loss: 4.7133e-05 - acc: 1.0000
